@@ -8,4 +8,4 @@ Considering the recent layoffs in big tech companies and various other sectors, 
 # About the Dataset
 As stated above, the dataset was obtained from Kaggle.com https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022. It reports the layoffs across 57 countries and 31 industries from 2020 to 2024, the data has twelve columns out of which only nine were useful for EDA.
 
-![](https://imgur.com/OEYzKPw)
+![](https://i.imgur.com/OEYzKPw.png)
