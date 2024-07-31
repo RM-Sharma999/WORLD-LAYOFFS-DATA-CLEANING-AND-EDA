@@ -12,3 +12,4 @@ As stated above, the dataset was obtained from Kaggle.com https://www.kaggle.com
 ![](https://i.imgur.com/OEYzKPw.png)
 
 # Data Cleaning Process
+The data was loaded into MYSQL and therefore converted into a database table, then i created a duplicate table to work upon and clean the data with the following steps:
