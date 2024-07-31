@@ -25,4 +25,12 @@ The data was loaded into MYSQL and therefore converted into a database table, th
 5. Removed any unwanted row or columns.
 
 # Data Analysis AND Visualization
-I Utilized SQL to perform Exploratory Data Analysis on the Layoffs Data and used the insights gathered to create some visualizations using Tableau. There were many possible visualizations using the insights gathered, but i restricted to four Visualizations only.
+I Utilized SQL to perform Exploratory Data Analysis on the Layoffs Data and used the insights gathered to create some visualizations using Tableau. There were many possible visualizations using the insights gathered, but i created the following Visualizations:
+
+# Funds Raised By Top 20 Companies
+
+# Layoffs Per Industry
+
+# Global Layoff Map
+
+# Annual Layoffs Comparison(From the Years 2020 to 2024)
