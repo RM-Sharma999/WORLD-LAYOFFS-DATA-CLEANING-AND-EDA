@@ -23,3 +23,6 @@ The data was loaded into MYSQL and therefore converted into a database table, th
 4. Dealt with any NULL values, Blank Values or any other misleading values.
 
 5. Removed any unwanted row or columns.
+
+# Data Analysis
+
