@@ -12,4 +12,14 @@ As stated above, the dataset was obtained from Kaggle.com https://www.kaggle.com
 ![](https://i.imgur.com/OEYzKPw.png)
 
 # Data Cleaning Process
-The data was loaded into MYSQL and therefore converted into a database table, then i created a duplicate table to work upon and clean the data with the following steps:
+The data was loaded into MYSQL and therefore converted into a database table, then i created a duplicate table to work upon and clean the data with the following steps below:
+
+1. Found and removed any duplicate rows using temp tables.
+
+2. Standardized the Data, checked for any spelling errors, converted the Date column to Standard formart. 
+
+3. Changed the datatypes of two columns, replaced all blank values with Null Values in columns.
+
+4. Dealt with any NULL values, Blank Values or any other misleading values.
+
+5. Removed any unwanted row or columns.
