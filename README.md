@@ -33,7 +33,8 @@ This bubble chart Visualization displays the funds raised by the top 20 companie
 ![](https://i.imgur.com/id4VV2U.png)
 
 # Layoffs Per Industry
-This horizontal bar chart displays the number of layoffs across various industries. The industries are listed on the left, with the corresponding number of layoffs represented by the length of the bars plus the extra layoffs label at the end of the bar. The Retail industry has experienced the highest number of layoffs, followed closely by the Consumer and Other sectors. The chart provides a clear comparison of layoffs across different industries, highlighting the sectors most affected.
+This horizontal bar chart displays the number of layoffs across various industries. The industries are listed on the left, with the corresponding number of layoffs represented by the length of the bars plus the extra layoffs label at the end of the bar. 
+The Retail industry has experienced the highest number of layoffs, followed closely by the Consumer and Other sectors. The chart provides a clear comparison of layoffs across different industries, highlighting the sectors most affected.
 
 ![](https://i.imgur.com/W5d9ZV9.png)
 
