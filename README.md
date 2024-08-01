@@ -48,7 +48,6 @@ This pie chart Visualization shows the distribution of layoffs over five years. 
 ![](https://i.imgur.com/yMVKgWR.png)
 
 # Recommendations
-Companies should look for alternative means of adjusting or responding to economic recession rather than laying off dozens of their employees. companies should also enhance financial forecasting, explore alternative cost-saving measures such as temporary pay adjustments, and invest in employee development. Adopting flexible staffing strategies, fostering a culture of innovation, and operational efficiency can also help. 
-For employees, staying adaptable and continuously upgrading skills can make them more versatile and valuable, reducing the likelihood of being affected by layoffs.
+Companies should look for alternative means of adjusting or responding to economic recession rather than laying off tons of their employees. companies should also enhance financial forecasting, explore alternative cost-saving measures such as temporary pay adjustments, and invest in employee development. Adopting flexible staffing strategies, fostering a culture of innovation, and operational efficiency can also help. For employees, staying adaptable and continuously upgrading skills can make them more versatile and valuable, reducing the likelihood of being affected by layoffs.
 
 Open communication between employers and employees and involvement in problem-solving activities and various social outings can also support efforts to navigate financial challenges and mitigate the need for workforce reductions.
