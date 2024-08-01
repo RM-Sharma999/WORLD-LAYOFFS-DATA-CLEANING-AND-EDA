@@ -43,6 +43,6 @@ This World Map Visualization illustrates the distribution of layoffs across vari
 ![](https://i.imgur.com/HdGjst3.png)
 
 # Annual Layoffs Comparison(From the Years 2020 to 2024)
-This pie chart Visualization shows the distribution of layoffs over five years. The sectors of the pie represent different years, with percentages indicating the proportion of total layoffs that occurred each year. The chart highlights that the highest percentage of layoffs occurred in 2023 (43.90%), followed by 2022 (27.41%). The smallest portion is from 2021 (2.64%). This visualization provides a clear comparison of layoffs by year, emphasizing the most and least affected timeframes.
+This pie chart Visualization shows the distribution of layoffs over five years. The sectors of the pie represent different years, with percentages indicating the proportion of total layoffs that occurred each year. The chart highlights that the highest percentage of layoffs occurred in 2023 (43.90%), followed by 2022 (27.41%). The smallest portion is from 2021 (2.64%). This visualization provides a clear comparison of layoffs by year, emphasizing the most and least affected time periods.
 
 ![](https://i.imgur.com/yMVKgWR.png)
