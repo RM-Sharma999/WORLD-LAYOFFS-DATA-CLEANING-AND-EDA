@@ -54,9 +54,5 @@ For employees, staying adaptable and continuously upgrading skills can make them
 Open communication between employers and employees and involvement in problem-solving activities and various social outings can also support efforts to navigate financial challenges and mitigate the need for workforce reductions.
 
 # Conclusion
-It can be seen that there was a significant impact of global layoffs since March 2020, highlighting a total of 599,442 layoffs. Major companies like Netflix, Meta, and Uber have raised substantial funds that doesn't correlate well with number of staff laid off. The data shows that the Retail industry has been affected the most, with 70,157 layoffs, followed by Consumer and Transportation sectors. The Global Layoff Map reveals notable layoffs in countries such as Canada and the United Kingdom.\ 
+It can be seen that there was a significant impact of global layoffs since March 2020, highlighting a total of 599,442 layoffs. Major companies like Netflix, Meta, and Uber have raised substantial funds that doesn't correlate well with number of staff laid off. The data shows that the Retail industry has been affected the most, with 70,157 layoffs, followed by Consumer and Transportation sectors. The Global Layoff Map reveals notable layoffs in countries such as Canada and the United Kingdom.\
 Additionally, there has been a significant increase in layoffs in 2023, accounting for 43.90% of the total, indicating a peak during this year and followed by a sharp decrease in layoffs in 2024 as compared to the previous year, 2023, that counts up to 12.53% of the total.
-
-
-
-
